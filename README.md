@@ -1,6 +1,6 @@
 # ut-crp-phd-program
 
-Document repository and website for the PhD Program in Community and Regional Planning at The University of Texas at Austin.
+Document repository and website for the PhD program of the Graduate Program in Community and Regional Planning at The University of Texas at Austin.
 
 The site is published with GitHub Pages at <https://aakarner.github.io/ut-crp-phd-program/>.
 

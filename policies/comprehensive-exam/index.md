@@ -6,7 +6,7 @@ has_children: true
 
 # Comprehensive Exam Policy
 
-Program in Community and Regional Planning  
+Graduate Program in Community and Regional Planning  
 School of Architecture  
 The University of Texas at Austin
 
@@ -193,7 +193,7 @@ If the meeting reaches consensus on (c), or fails to reach consensus while any r
 
 # Comprehensive Exam Checklist
 
-Program in Community and Regional Planning  
+Graduate Program in Community and Regional Planning  
 School of Architecture  
 The University of Texas at Austin
 

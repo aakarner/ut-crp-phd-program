@@ -1,11 +1,11 @@
 diff --git adopted/tmp/a.md revised/tmp/b.md
-index cf0886c..13d8d8e 100644
+index 42f25a7..f0f778a 100644
 --- adopted/tmp/a.md
 +++ revised/tmp/b.md
 @@ -5,66 +5,109 @@ School of Architecture
  The University of Texas at Austin
  
--*Source: "Comprehensive Exam Policy _Revised Jul 2025.pdf" (PhD Handbook 2025 appendix). Faithful transcription; text is unchanged from the PDF except for Markdown formatting.*
+-*Source: "Comprehensive Exam Policy _Revised Jul 2025.pdf" (PhD Handbook 2025 appendix). Faithful transcription; text is unchanged from the PDF except for Markdown formatting and the program name, which is given in its current form ("Graduate Program in Community and Regional Planning").*
 +| | |
 +|---|---|
 +| **Status** | Draft for GSC review — not yet adopted |

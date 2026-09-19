@@ -6,11 +6,11 @@ nav_order: 2
 
 # Comprehensive Exam Policy
 
-Program in Community and Regional Planning  
+Graduate Program in Community and Regional Planning  
 School of Architecture  
 The University of Texas at Austin
 
-*Source: "Comprehensive Exam Policy _Revised Jul 2025.pdf" (PhD Handbook 2025 appendix). Faithful transcription; text is unchanged from the PDF except for Markdown formatting.*
+*Source: "Comprehensive Exam Policy _Revised Jul 2025.pdf" (PhD Handbook 2025 appendix). Faithful transcription; text is unchanged from the PDF except for Markdown formatting and the program name, which is given in its current form ("Graduate Program in Community and Regional Planning").*
 
 ## 1. Purpose and Expectations
 
@@ -148,7 +148,7 @@ If consensus is reached (in the meeting of the students' committee and other fac
 
 # Comprehensive Exam Checklist
 
-Program in Community and Regional Planning  
+Graduate Program in Community and Regional Planning  
 School of Architecture  
 The University of Texas at Austin
 

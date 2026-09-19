@@ -1,5 +1,5 @@
 title: CRP PhD Program Policies
-description: Policies and procedures for the PhD Program in Community and Regional Planning, School of Architecture, The University of Texas at Austin
+description: PhD policies and procedures of the Graduate Program in Community and Regional Planning, School of Architecture, The University of Texas at Austin
 url: https://aakarner.github.io
 baseurl: /ut-crp-phd-program
 
@@ -16,7 +16,7 @@ aux_links:
   "Repository on GitHub":
     - https://github.com/aakarner/ut-crp-phd-program
 
-footer_content: "Maintained by the PhD Program Coordinator, Program in Community and Regional Planning, The University of Texas at Austin."
+footer_content: "Maintained by the PhD Program Coordinator, Graduate Program in Community and Regional Planning, The University of Texas at Austin."
 
 # Status labels used in policy front matter
 callouts:
