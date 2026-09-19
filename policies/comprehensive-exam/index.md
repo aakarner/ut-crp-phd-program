@@ -190,8 +190,8 @@ The student has four weeks to complete revisions. Revised essays are graded **pa
 
 If any reader grades a revised essay unsatisfactory, the PhD Program Coordinator and advisor convene a meeting of the committee, the core-course faculty, and the reader or readers who gave the unsatisfactory grade. External members' views are advisory; the decision rests with the CRP-GSC members of the committee. The meeting decides by consensus whether:
 
-a. the student passes and advances to candidacy;
-b. the student must complete additional coursework or studies to correct deficiencies; or
+a. the student passes and advances to candidacy;  
+b. the student must complete additional coursework or studies to correct deficiencies; or  
 c. the unsatisfactory grade stands and the student has failed the comprehensive exam requirement.
 
 If the meeting reaches consensus on (c), or fails to reach consensus while any reader still recommends unsatisfactory, all CRP-GSC members are asked to read the essay or essays in question within two weeks. The PhD Program Coordinator and the CRP Program Director then convene the CRP-GSC to decide the case. The CRP-GSC decides whether the student passes and advances to candidacy (available only when the earlier meeting did not reach consensus), whether additional coursework or studies will correct the deficiencies, or whether the student has failed the requirement and the student's course of study is terminated. Termination requires a majority vote of the CRP-GSC, per the Graduate School Catalog.
