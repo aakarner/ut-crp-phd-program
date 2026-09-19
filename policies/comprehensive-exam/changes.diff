@@ -1,17 +1,8 @@
-diff --git a/2025-07-adopted.md b/index.md
-index 2edde9a..6876b7d 100755
---- a/2025-07-adopted.md
-+++ b/index.md
-@@ -1,6 +1,6 @@
- ---
--title: Adopted text (July 2025)
--parent: Comprehensive Exam Policy
-+title: Comprehensive Exam Policy
- nav_order: 2
-+has_children: true
- ---
- 
-@@ -11,66 +11,109 @@ School of Architecture
+diff --git adopted/tmp/a.md revised/tmp/b.md
+index cf0886c..13d8d8e 100644
+--- adopted/tmp/a.md
++++ revised/tmp/b.md
+@@ -5,66 +5,109 @@ School of Architecture
  The University of Texas at Austin
  
 -*Source: "Comprehensive Exam Policy _Revised Jul 2025.pdf" (PhD Handbook 2025 appendix). Faithful transcription; text is unchanged from the PDF except for Markdown formatting.*
@@ -166,7 +157,7 @@ index 2edde9a..6876b7d 100755
 +The planning specialization must be one of the following:
  
  - Economic and Community Development
-@@ -83,65 +126,67 @@ The Planning Specialization must be one of the following:
+@@ -77,65 +120,67 @@ The Planning Specialization must be one of the following:
  - Transportation
  - Urban Design
 -- Special Field (Students may choose to design their own specialization, which must be approved by the CRP PhD Committee.)
@@ -274,7 +265,7 @@ index 2edde9a..6876b7d 100755
 +If the meeting reaches consensus on (c), or fails to reach consensus while any reader still recommends unsatisfactory, all CRP-GSC members are asked to read the essay or essays in question within two weeks. The PhD Program Coordinator and the CRP Program Director then convene the CRP-GSC to decide the case. The CRP-GSC decides whether the student passes and advances to candidacy (available only when the earlier meeting did not reach consensus), whether additional coursework or studies will correct the deficiencies, or whether the student has failed the requirement and the student's course of study is terminated. Termination requires a majority vote of the CRP-GSC, per the Graduate School Catalog.
  
  ---
-@@ -153,39 +198,29 @@ School of Architecture
+@@ -147,39 +192,29 @@ School of Architecture
  The University of Texas at Austin
  
 -1. I have completed all my required coursework. ☐

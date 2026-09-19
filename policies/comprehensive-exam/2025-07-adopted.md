@@ -6,8 +6,8 @@ nav_order: 2
 
 # Comprehensive Exam Policy
 
-Program in Community and Regional Planning
-School of Architecture
+Program in Community and Regional Planning  
+School of Architecture  
 The University of Texas at Austin
 
 *Source: "Comprehensive Exam Policy _Revised Jul 2025.pdf" (PhD Handbook 2025 appendix). Faithful transcription; text is unchanged from the PDF except for Markdown formatting.*
@@ -148,8 +148,8 @@ If consensus is reached (in the meeting of the students' committee and other fac
 
 # Comprehensive Exam Checklist
 
-Program in Community and Regional Planning
-School of Architecture
+Program in Community and Regional Planning  
+School of Architecture  
 The University of Texas at Austin
 
 1. I have completed all my required coursework. ☐

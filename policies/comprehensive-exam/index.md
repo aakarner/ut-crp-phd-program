@@ -6,8 +6,8 @@ has_children: true
 
 # Comprehensive Exam Policy
 
-Program in Community and Regional Planning
-School of Architecture
+Program in Community and Regional Planning  
+School of Architecture  
 The University of Texas at Austin
 
 | | |
@@ -193,8 +193,8 @@ If the meeting reaches consensus on (c), or fails to reach consensus while any r
 
 # Comprehensive Exam Checklist
 
-Program in Community and Regional Planning
-School of Architecture
+Program in Community and Regional Planning  
+School of Architecture  
 The University of Texas at Austin
 
 *Deadlines by exam period — Spring/early summer: Jan 15 / Feb 15 / Apr 15. Late summer/fall: Apr 15 / May 15 / Jul 30. Winter: Aug 15 / Sep 15 / Dec 1.*
