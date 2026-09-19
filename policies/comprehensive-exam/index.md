@@ -60,7 +60,7 @@ The advisor leads the *preparation* of the exam. Taking on a doctoral advisee me
 
 - Agree, before the exam is scheduled, to write questions, grade essays, and attend a post-exam meeting if needed.
 - Review and comment on the student's reading lists in a timely manner.
-- Propose questions in their area of expertise when asked by the advisor. Any CRP-GSC member, on the committee or not, may propose questions in any of the four areas when the PhD Program Coordinator circulates the reading list.
+- Draft proposed questions when asked by the advisor. Committee members who are CRP-GSC members are expected to propose questions in all four areas; external members propose questions in Areas 3 and/or 4. Other CRP-GSC members may also propose questions in any area when the PhD Program Coordinator circulates the reading list.
 - Grade essays within four weeks of receiving them and return grades and comments to the PhD Program Coordinator. CRP-GSC members grade all four essays; external members grade Essays 3 and/or 4 (and Essays 1 and 2 by agreement with the advisor). External members' grades are advisory, since exam results are a CRP-GSC decision.
 - Grade any revised essays within two weeks of receiving them.
 
@@ -111,7 +111,7 @@ Before the exam can be scheduled, the student and advisor form a comprehensive e
 
 - The chair must be a member of the CRP-GSC and should be the intended chair of the student's dissertation committee.
 - At least one member must be from a program or department outside the CRP-GSC. Additional external members may be from outside UT Austin.
-- Each member must agree to (1) write questions for the exam, (2) grade the essays (external members grade Essays 3 and/or 4), and (3) participate in a meeting after the exam if one is needed to determine revisions.
+- Each member must agree to (1) propose questions for the exam (CRP-GSC members in all four areas; external members in Areas 3 and/or 4), (2) grade the essays (external members grade Essays 3 and/or 4), and (3) participate in a meeting after the exam if one is needed to determine revisions.
 - The advisor sends the members' names and contact information to the PhD Program Coordinator.
 
 The exam committee exists to evaluate the comprehensive exam. Members are not obligated to continue after the exam, and the student may choose different faculty for the dissertation committee, although continuity is encouraged. The official dissertation committee is formed after the proposal defense, when the student advances to candidacy, under the Graduate School's rules.
@@ -150,8 +150,8 @@ The advisor leads question development.
 
 - Each of the four areas carries two or three questions, and the student answers one per area. Questions must draw on the readings on the student's final list.
 - The core-course faculty always contribute questions for Areas 1 (Planning Theory) and 2 (Planning Research Design), in consultation with the advisor so that the questions connect to the student's interests. Questions are newly written for each student.
-- The advisor drafts questions for Areas 3 (Planning Specialization) and 4 (Dissertation Topic) and solicits proposed questions from all committee members, including external members.
-- When the PhD Program Coordinator circulates the final reading list, all CRP-GSC members are welcome to propose questions for any area.
+- The advisor drafts questions for all four areas, with particular responsibility for Areas 3 (Planning Specialization) and 4 (Dissertation Topic), and solicits proposed questions from all committee members. Committee members who are CRP-GSC members are expected to propose questions in all four areas; external members propose questions in Areas 3 and/or 4.
+- When the PhD Program Coordinator circulates the final reading list, other CRP-GSC members are welcome to propose questions for any area.
 - The advisor assembles and refines the final set of questions with the committee and submits it to the PhD Program Coordinator at least two weeks before the exam start date (Section 3).
 
 ## 8. The Exam Period

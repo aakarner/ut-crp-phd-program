@@ -1,5 +1,5 @@
 diff --git adopted/tmp/a.md revised/tmp/b.md
-index 42f25a7..55a71f0 100644
+index 42f25a7..85950fc 100644
 --- adopted/tmp/a.md
 +++ revised/tmp/b.md
 @@ -5,66 +5,115 @@ School of Architecture
@@ -34,7 +34,7 @@ index 42f25a7..55a71f0 100644
 +## 2. Who Does What
  
 -### Spring/early summer exams
-+The comprehensive exam involves the student, the student's advisor (who chairs the comprehensive exam committee), the other committee members, the faculty who teach the doctoral core courses, and the PhD Program Coordinator. The division of labor is simple: **the advisor and committee prepare the exam and grade individual questions; the PhD Program Coordinator administers the exam, synthesizes the final grades, and resolves any inconsistencies.** Keeping administration with someone outside the committee gives every student a consistent process and a disinterested point of contact.
++The comprehensive exam involves the student, the student's advisor (who chairs the comprehensive exam committee), the other committee members, the faculty who teach the doctoral core courses, and the PhD Program Coordinator. The division of labor is as follows: **the advisor and committee prepare the exam and grade individual questions; the PhD Program Coordinator administers the exam, synthesizes the final grades, and resolves any inconsistencies.** Keeping administration with someone outside the committee gives every student a consistent process and a disinterested point of contact.
  
 -| Date | Milestone |
 -|---|---|
@@ -75,7 +75,7 @@ index 42f25a7..55a71f0 100644
 +- Sends the committee roster to the PhD Program Coordinator before the exam can be scheduled.
 +- Guides the student's definition of specialization and dissertation topic.
 +- Reviews the reading lists and coordinates committee feedback on them.
-+- Solicits questions from all committee members, including external members and the core-course faculty, and drafts questions for at least Essays 3 and 4.
++- Solicits questions from all committee members, including external members and the core-course faculty, and drafts questions for all four areas.
 +- Assembles the full set of questions (two or three options in each area), refines them with the committee, and submits them to the PhD Program Coordinator by the deadline.
 +- Grades all four essays individually and return grades and comments to the PhD Program Coordinator.
 +- Convenes, with the PhD Program Coordinator, any meeting needed to reconcile grades or determine revisions (Sections 10–11).
@@ -84,7 +84,7 @@ index 42f25a7..55a71f0 100644
 +
 +- Agree, before the exam is scheduled, to write questions, grade essays, and attend a post-exam meeting if needed.
 +- Review and comment on the student's reading lists in a timely manner.
-+- Propose questions in their area of expertise when asked by the advisor. Any CRP-GSC member, on the committee or not, may propose questions in any of the four areas when the PhD Program Coordinator circulates the reading list.
++- Draft proposed questions when asked by the advisor. Committee members who are CRP-GSC members are expected to propose questions in all four areas; external members propose questions in Areas 3 and/or 4. Other CRP-GSC members may also propose questions in any area when the PhD Program Coordinator circulates the reading list.
 +- Grade essays within four weeks of receiving them and return grades and comments to the PhD Program Coordinator. CRP-GSC members grade all four essays; external members grade Essays 3 and/or 4 (and Essays 1 and 2 by agreement with the advisor). External members' grades are advisory, since exam results are a CRP-GSC decision.
 +- Grade any revised essays within two weeks of receiving them.
 +
@@ -147,7 +147,7 @@ index 42f25a7..55a71f0 100644
 -The student and the chair must secure all committee members' agreement to (1) write questions for the comprehensive exam, (2) grade all essays on the comprehensive exam (in the case of external readers, only question 3 and 4), and (3) participate in a meeting following submission of the exam to determine revision requirements. The comprehensive exam committee is formed for the purpose of evaluating the student's comprehensive exam, and committee members are not required to continue serving on the committee following the conclusion of the exam, and the student is free to select different faculty members for their final committee. However, comprehensive exam committee members would ideally continue to serve on the proposal defense and the final supervisory committee. The final, official supervisory committee will be formed following the proposal defense and when the student advances to candidacy, per the University of Texas at Austin Graduate School Catalogue.
 +- The chair must be a member of the CRP-GSC and should be the intended chair of the student's dissertation committee.
 +- At least one member must be from a program or department outside the CRP-GSC. Additional external members may be from outside UT Austin.
-+- Each member must agree to (1) write questions for the exam, (2) grade the essays (external members grade Essays 3 and 4), and (3) participate in a meeting after the exam if one is needed to determine revisions.
++- Each member must agree to (1) propose questions for the exam (CRP-GSC members in all four areas; external members in Areas 3 and/or 4), (2) grade the essays (external members grade Essays 3 and/or 4), and (3) participate in a meeting after the exam if one is needed to determine revisions.
 +- The advisor sends the members' names and contact information to the PhD Program Coordinator.
  
 -## 4. Defining the Planning Specialization and Dissertation Topic
@@ -193,8 +193,8 @@ index 42f25a7..55a71f0 100644
 -## 6. Developing and Submitting Questions for the Comprehensive Exam
 +- Each of the four areas carries two or three questions, and the student answers one per area. Questions must draw on the readings on the student's final list.
 +- The core-course faculty always contribute questions for Areas 1 (Planning Theory) and 2 (Planning Research Design), in consultation with the advisor so that the questions connect to the student's interests. Questions are newly written for each student.
-+- The advisor drafts questions for Areas 3 (Planning Specialization) and 4 (Dissertation Topic) and solicits proposed questions from all committee members, including external members.
-+- When the PhD Program Coordinator circulates the final reading list, all CRP-GSC members are welcome to propose questions for any area.
++- The advisor drafts questions for all four areas, with particular responsibility for Areas 3 (Planning Specialization) and 4 (Dissertation Topic), and solicits proposed questions from all committee members. Committee members who are CRP-GSC members are expected to propose questions in all four areas; external members propose questions in Areas 3 and/or 4.
++- When the PhD Program Coordinator circulates the final reading list, other CRP-GSC members are welcome to propose questions for any area.
 +- The advisor assembles and refines the final set of questions with the committee and submits it to the PhD Program Coordinator at least two weeks before the exam start date (Section 3).
  
 -All members of the CRP-GSC are invited and encouraged to develop and recommend comprehensive, written exam questions, and otherwise participate actively in the comprehensive exam process. In addition, the following applies:
@@ -213,7 +213,7 @@ index 42f25a7..55a71f0 100644
 +- The student, advisor, and PhD Program Coordinator set the start date (Section 3).
 +- The PhD Program Coordinator sends the questions to the student on the start date.
 +- The student has 10 days to write one essay in each of the four areas. The essays are due to the PhD Program Coordinator electronically at the same time of day the questions were received, 10 days later.
-+- The PhD Program Coordinator immediately distributes the essays to the committee and the core-course faculty.
++- The PhD Program Coordinator immediately distributes the essays to the committee and the core-course faculty for grading.
  
 -## 7. Reading and Grading the Initial Comprehensive Exam Essays
 +## 9. Grading the Essays
