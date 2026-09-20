@@ -16,6 +16,10 @@ policies/
     changes.md                   Summary of what changed and why
     diff.html                    Side-by-side line diff of the two versions
     changes.diff                 Unified diff (for git/GitHub users)
+  proposal-defense/index.md          Adopted text, verbatim, with transcription notes
+  dissertation-defense/index.md      Adopted text, verbatim, with transcription notes
+  three-article-dissertation/index.md
+  methods-requirements/index.md      Qual/quant requirements and recommended course lists
 ```
 
 ## Conventions
