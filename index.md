@@ -5,7 +5,7 @@ nav_order: 1
 
 # CRP PhD Program Policies
 
-This site is the definitive home for the PhD policies and procedures of the Graduate Program in Community and Regional Planning at The University of Texas at Austin. Each policy page states whether it has been adopted by the CRP Graduate Studies Committee (GSC) or is a draft under review, and when it was last changed.
+This site is the definitive home for the PhD policies and procedures of the [Graduate Program in Community and Regional Planning at The University of Texas at Austin](https://soa.utexas.edu/planning). Each policy page states whether it has been adopted by the CRP Graduate Studies Committee (GSC) or is a draft under review, and when it was last changed.
 
 Policies are added here as the GSC works through them. Adopted policies appear as verbatim transcriptions of the current text, with a short note on the source and any known errors in the original. Until a policy appears on this site, the version in the current PhD Handbook governs.
 
