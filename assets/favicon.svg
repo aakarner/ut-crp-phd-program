@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- mortarboard: top diamond -->
+  <polygon points="32,10 60,24 32,38 4,24" fill="#333f48"/>
+  <!-- cap body under the board -->
+  <path d="M14,29 v11 c0,6 8,10 18,10 s18,-4 18,-10 v-11 l-18,9 z" fill="#333f48"/>
+  <!-- tassel: cord from board's right edge, then the tuft -->
+  <path d="M60,24 v18" stroke="#bf5700" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M55,42 h10 l-2,8 h-6 z" fill="#bf5700"/>
+  <circle cx="60" cy="24" r="2.5" fill="#bf5700"/>
+</svg>

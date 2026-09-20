@@ -10,6 +10,7 @@ plugins:
 
 search_enabled: true
 heading_anchors: true
+favicon_ico: "/favicon.ico"
 color_scheme: light
 
 aux_links:
