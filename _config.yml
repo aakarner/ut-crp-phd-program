@@ -16,7 +16,7 @@ aux_links:
   "Repository on GitHub":
     - https://github.com/aakarner/ut-crp-phd-program
 
-footer_content: "Maintained by the PhD Program Coordinator, Graduate Program in Community and Regional Planning, The University of Texas at Austin."
+footer_content: "Maintained by <a href=\"https://soa.utexas.edu/faculty/alex-karner\">Alex Karner</a>, PhD Program Coordinator, Graduate Program in Community and Regional Planning, The University of Texas at Austin."
 
 # Status labels used in policy front matter
 callouts:

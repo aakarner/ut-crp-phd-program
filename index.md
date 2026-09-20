@@ -20,7 +20,6 @@ Policies are added here as the GSC works through them. Adopted policies appear a
 | [Dissertation Defense Policy](policies/dissertation-defense/) | Adopted April 2025 | Transcribed September 2026 |
 | [Three-Article Dissertation Policy](policies/three-article-dissertation/) | Adopted May 14, 2024 | Transcribed September 2026 |
 | [Methods Course Requirements](policies/methods-requirements/) (qualitative and quantitative; recommended courses) | Adopted; recommended course lists likely outdated and due for review | Transcribed September 2026 |
-| Master's Equivalency Requirement | In preparation (draft by Ming Zhang under review) | — |
 
 ## Student forms
 
@@ -30,4 +29,4 @@ The Milestone Agreement and Program of Work are per-student working documents an
 
 Proposed revisions are drafted by the PhD Program Coordinator, reviewed by current and past program coordinators, circulated to the full CRP-GSC at least one week before a meeting, and adopted by GSC vote. Each policy page keeps the adopted text and any draft side by side, with a summary of what changed.
 
-Questions: contact the PhD Program Coordinator.
+Questions: contact the PhD Program Coordinator, [Alex Karner](https://soa.utexas.edu/faculty/alex-karner).
