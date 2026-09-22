@@ -21,6 +21,10 @@ Policies are added here as the GSC works through them. Adopted policies appear a
 | [Three-Article Dissertation Policy](policies/three-article-dissertation/) | Adopted May 14, 2024 | Transcribed September 2026 |
 | [Methods Course Requirements](policies/methods-requirements/) (qualitative and quantitative; recommended courses) | Adopted; recommended course lists likely outdated and due for review | Transcribed September 2026 |
 
+## Frequently asked questions
+
+Practical answers to the questions students ask most, organized by milestone, with a table of who to ask for what: [FAQ](faq.md). It is guidance, not policy; where it and a policy differ, the policy governs.
+
 ## Student forms
 
 The Milestone Agreement and Program of Work are per-student working documents and are kept as Google Sheets with each student's record rather than on this site. Ask the PhD Program Coordinator for access to yours.
