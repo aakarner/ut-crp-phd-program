@@ -12,7 +12,7 @@ The University of Texas at Austin
 
 | | |
 |---|---|
-| **Status** | Draft for GSC review — not yet adopted |
+| **Status** | Draft for GSC review—not yet adopted |
 | **Supersedes** | Comprehensive Exam Policy, Revised July 2025 |
 | **Prepared by** | Alex Karner, PhD Program Coordinator, September 2026 |
 
@@ -230,4 +230,4 @@ The University of Texas at Austin
 13. ☐ I have submitted any required revisions to the PhD Program Coordinator (within 4 weeks of the results letter).
 14. ☐ **I have received my final results (within 3 weeks of submitting revisions).**
 
-**Exam phase complete — on to the proposal defense.**
+**Exam phase complete—on to the proposal defense.**

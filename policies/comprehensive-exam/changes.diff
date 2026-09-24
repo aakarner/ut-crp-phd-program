@@ -1,5 +1,5 @@
 diff --git adopted/tmp/a.md revised/tmp/b.md
-index 42f25a7..7a227d9 100644
+index 42f25a7..8b6aa6c 100644
 --- adopted/tmp/a.md
 +++ revised/tmp/b.md
 @@ -5,66 +5,115 @@ School of Architecture
@@ -8,7 +8,7 @@ index 42f25a7..7a227d9 100644
 -*Source: "Comprehensive Exam Policy _Revised Jul 2025.pdf" (PhD Handbook 2025 appendix). Faithful transcription; text is unchanged from the PDF except for Markdown formatting and the program name, which is given in its current form ("Graduate Program in Community and Regional Planning").*
 +| | |
 +|---|---|
-+| **Status** | Draft for GSC review — not yet adopted |
++| **Status** | Draft for GSC review—not yet adopted |
 +| **Supersedes** | Comprehensive Exam Policy, Revised July 2025 |
 +| **Prepared by** | Alex Karner, PhD Program Coordinator, September 2026 |
  
@@ -332,4 +332,4 @@ index 42f25a7..7a227d9 100644
 +13. ☐ I have submitted any required revisions to the PhD Program Coordinator (within 4 weeks of the results letter).
 +14. ☐ **I have received my final results (within 3 weeks of submitting revisions).**
 +
-+**Exam phase complete — on to the proposal defense.**
++**Exam phase complete—on to the proposal defense.**

@@ -11,7 +11,7 @@ The University of Texas at Austin
 
 | | |
 |---|---|
-| **Status** | Adopted — verbatim transcription of the current text |
+| **Status** | Adopted—verbatim transcription of the current text |
 | **Source** | "Proposal Defence Policy _Final_Addendum Nov 14_2012" as included in the 2025 PhD Handbook appendix |
 | **Transcribed** | September 2026, PhD Program Coordinator |
 

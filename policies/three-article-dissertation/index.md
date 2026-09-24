@@ -11,7 +11,7 @@ The University of Texas at Austin
 
 | | |
 |---|---|
-| **Status** | Adopted May 14, 2024 — verbatim transcription |
+| **Status** | Adopted May 14, 2024—verbatim transcription |
 | **Source** | "Three Article Dissertation Policy CRP_05 14 2024" as included in the 2025 PhD Handbook appendix |
 | **Transcribed** | September 2026, PhD Program Coordinator |
 

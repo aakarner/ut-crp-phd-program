@@ -11,10 +11,10 @@ The University of Texas at Austin
 
 | | |
 |---|---|
-| **Status** | Adopted — verbatim transcription of the current text |
+| **Status** | Adopted—verbatim transcription of the current text |
 | **Source** | "2025_0617ExternalCourses" (PhD Handbook, Program Requirements; file dated June 17, 2025) |
 | **Transcribed** | September 2026, PhD Program Coordinator |
-| **Known issue** | The recommended course lists are likely outdated (course numbers, titles, instructors, and availability) and are due for review. The *requirement* — one advanced qualitative and one advanced quantitative methods course — is current. |
+| **Known issue** | The recommended course lists are likely outdated (course numbers, titles, instructors, and availability) and are due for review. The *requirement*—one advanced qualitative and one advanced quantitative methods course—is current. |
 
 *This page reproduces the current requirements text and the recommended course lists without change, apart from Markdown formatting and the program name in the header. Treat the course lists as a starting point, not a guarantee: check the current course schedule and confirm with the PhD Program Coordinator before enrolling. See the transcription notes at the end.*
 
