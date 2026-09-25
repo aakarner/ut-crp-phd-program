@@ -15,6 +15,7 @@ The University of Texas at Austin
 | **Status** | Draft for GSC review—not yet adopted |
 | **Supersedes** | Comprehensive Exam Policy, Revised July 2025 |
 | **Prepared by** | Alex Karner, PhD Program Coordinator, September 2026 |
+| **Last revised** | September 25, 2026, incorporating review comments from current and past PhD Program Coordinators |
 
 ## 1. Purpose
 
@@ -38,7 +39,7 @@ The comprehensive exam involves the student, the student's advisor (who chairs t
 - Tells the PhD Program Coordinator, at least a semester ahead, when they intend to take the exam.
 - Defines the planning specialization and dissertation topic with the advisor and committee (Section 5).
 - Drafts and finalizes the reading lists with the advisor and committee (Section 6).
-- Is encouraged to prepare a one- to two-page dissertation abstract for the committee.
+- Prepares a one- to two-page summary of the proposed dissertation research and submits it with the final reading lists (Section 6).
 - Writes the essays within the 10-day exam period and submits them to the PhD Program Coordinator.
 - Completes any required revisions within four weeks.
 
@@ -48,20 +49,22 @@ The advisor leads the *preparation* of the exam. Taking on a doctoral advisee me
 
 - Confirms that each committee member agrees to write questions, grade essays, and attend a post-exam meeting if needed.
 - Communicates with external committee members about our program's comprehensive exam policies and procedures and provides sample questions so they understand desired scope and scale.
+- Confirms that each committee member will be available to grade within four weeks of the exam start date.
 - Sends the committee roster to the PhD Program Coordinator before the exam can be scheduled.
 - Guides the student's definition of specialization and dissertation topic.
-- Reviews the reading lists and coordinates committee feedback on them.
+- Reviews the reading lists, coordinates committee feedback on them, and distributes the final lists and the student's dissertation summary to the committee and the PhD Program Coordinator at least one month before the exam.
 - Solicits questions from all committee members, including external members and the core-course faculty, and drafts questions for all four areas.
-- Assembles the full set of questions (two or three options in each area), refines them with the committee, and submits them to the PhD Program Coordinator by the deadline.
-- Grades all four essays individually and return grades and comments to the PhD Program Coordinator.
+- Assembles the full set of questions (two or three options in each area), refines them with the committee, and submits them to the PhD Program Coordinator at least two weeks before the exam start date. Responds to any comments the coordinator returns (Section 7).
+- Grades all four essays individually and, within four weeks of receiving them, returns grades and comments to the PhD Program Coordinator.
+- Reviews the draft results letter prepared by the PhD Program Coordinator and offers comments before it is sent to the student.
 - Convenes, with the PhD Program Coordinator, any meeting needed to reconcile grades or determine revisions (Sections 10–11).
 
 ### Committee members
 
-- Agree, before the exam is scheduled, to write questions, grade essays, and attend a post-exam meeting if needed.
-- Review and comment on the student's reading lists in a timely manner.
-- Draft proposed questions when asked by the advisor. Committee members who are CRP-GSC members are expected to propose questions in all four areas; external members propose questions in Areas 3 and/or 4. Other CRP-GSC members may also propose questions in any area when the PhD Program Coordinator circulates the reading list.
-- Grade essays within four weeks of receiving them and return grades and comments to the PhD Program Coordinator. CRP-GSC members grade all four essays; external members grade Essays 3 and/or 4 (and Essays 1 and 2 by agreement with the advisor). External members' grades are advisory, since exam results are a CRP-GSC decision.
+- Agree, before the exam is scheduled, to write questions, grade essays within four weeks of receiving them, and attend a post-exam meeting if needed.
+- Review and comment on the student's draft reading lists within two weeks of receiving them, so that the lists can be finalized on the timeline in Section 3.
+- Draft proposed questions when asked by the advisor. Committee members who are CRP-GSC members are expected to propose questions in all four areas; external members propose questions in Areas 3 and/or 4. The advisor and PhD Program Coordinator may agree to a different division where an external member's expertise is closer to the student's topic than a CRP-GSC member's. Other CRP-GSC members may also propose questions in any area when the PhD Program Coordinator circulates the final reading list.
+- Grade essays within four weeks of receiving them and return grades and comments to the PhD Program Coordinator. CRP-GSC members are expected to grade all four essays, but the advisor and PhD Program Coordinator may make an exception where an external member's expertise is closer to the student's topic; external members grade Essays 3 and/or 4 (and Essays 1 and 2 by agreement with the advisor). External members' grades are advisory, since exam results are a CRP-GSC decision.
 - Grade any revised essays within two weeks of receiving them.
 
 ### Core-course faculty (Planning Theory and Research Design)
@@ -69,7 +72,7 @@ The advisor leads the *preparation* of the exam. Taking on a doctoral advisee me
 - Always contribute questions for Areas 1 and 2 for every student taking the exam, whether or not they serve on the student's committee, working with the advisor so that the questions connect to the student's specialization and dissertation interests.
 - Write new questions for each student rather than reusing questions from past exams.
 - Grade Essays 1 and 2 for every student.
-- Are encouraged to review the theory and research design reading lists before they are finalized.
+- Review the theory and research design reading lists for every student before the lists are finalized.
 
 ### PhD Program Coordinator
 
@@ -77,26 +80,29 @@ The PhD Program Coordinator *administers* the exam and supports advisors in lead
 
 - Maintains this policy, the exam calendar, and the templates and shares them with each advisor as a student approaches the exam.
 - Answers advisors' and students' questions about the process.
-- Receives the committee roster, reading lists, and questions on the timeline in Section 3.
-- Shares the near-final reading list with the CRP-GSC for feedback, and circulates the final list to the CRP-GSC with an invitation to propose questions in any of the four areas.
-- Sets the exam start date with the student and advisor.
+- Receives the committee roster, reading lists, dissertation summary, and questions on the timeline in Section 3.
+- Shares the near-final reading lists with the CRP-GSC for comment about two months before the exam, and circulates the final lists to the CRP-GSC at least one month before the exam with an invitation to propose questions in any of the four areas.
+- Reviews the assembled questions for clarity and scope. In most cases no changes will be needed, but the coordinator may return the questions to the advisor with comments before the exam is sent.
+- Sets the exam start date with the student and advisor, once the advisor has confirmed that the date and the grading deadline work for the committee.
 - Sends the questions to the student at the start of the exam period and receives the essays at its close.
 - Distributes the essays to the committee and the core-course faculty.
-- Collects grades and comments from all readers, synthesizes them into a results letter, and sends it to the student; does the same for final results after any revisions.
+- Collects grades and comments from all readers, synthesizes them into a results letter, shares the draft with the advisor for comment, and sends it to the student; does the same for final results after any revisions.
 - With the advisor, convenes any meeting needed to reconcile grades, determine revisions, or resolve an unsatisfactory outcome, and brings a case to the full CRP-GSC when this policy requires it.
 - Keeps the exam record (questions, essays, grades, and results letters) in the program's files.
 
 ## 3. Timeline
 
-There are no fixed exam periods. The student, advisor, and PhD Program Coordinator choose an exam start date that works for the student and the committee. In practice most students take the exam near the beginning or the end of a semester, when faculty are most available to write questions and grade; the summer is possible but might be harder to staff. Whatever date is chosen, the steps below run backward from it. Committee members should be told the intended date when they agree to serve, so that they can ensure that they have adequate time to grade.
+There are no fixed exam periods. The student, advisor, and PhD Program Coordinator choose an exam start date that works for the student and the committee. In practice most students take the exam near the beginning or the end of a semester, when faculty are most available to write questions and grade; the summer is possible but might be harder to staff. Whatever date is chosen, the steps below run backward from it. The advisor and student must communicate the intended date to committee members when they agree to serve, so that each member can confirm they will be able to grade within four weeks of the exam.
 
 | Step | Timing |
 |---|---|
 | Student tells the PhD Program Coordinator of the intended exam date | At least one semester before the exam |
 | Committee roster to PhD Program Coordinator | Before the exam is scheduled |
 | Draft reading lists to committee | About 3 months before the exam |
-| Final reading lists to PhD Program Coordinator and committee | About 2 months before the exam |
-| Questions from advisor to PhD Program Coordinator | At least 2 weeks before the exam |
+| Committee comments on draft lists to student and advisor | Within 2 weeks of receiving the drafts |
+| Near-final reading lists shared with CRP-GSC for comment | About 2 months before the exam |
+| Final reading lists and dissertation summary to PhD Program Coordinator and committee; final lists circulated to CRP-GSC with invitation to propose questions | At least 1 month before the exam |
+| Questions from advisor to PhD Program Coordinator; coordinator review | At least 2 weeks before the exam |
 | Exam period | 10 days from the start date |
 | Grades due to PhD Program Coordinator | 4 weeks after essays submitted |
 | Results letter to student | Within 5 weeks of essays submitted |
@@ -111,10 +117,10 @@ Before the exam can be scheduled, the student and advisor form a comprehensive e
 
 - The chair must be a member of the CRP-GSC and should be the intended chair of the student's dissertation committee.
 - At least one member must be from a program or department outside the CRP-GSC. Additional external members may be from outside UT Austin.
-- Each member must agree to (1) propose questions for the exam (CRP-GSC members in all four areas; external members in Areas 3 and/or 4), (2) grade the essays (external members grade Essays 3 and/or 4), and (3) participate in a meeting after the exam if one is needed to determine revisions.
+- Each member must agree to (1) propose questions for the exam (CRP-GSC members in all four areas; external members in Areas 3 and/or 4), (2) grade the essays within four weeks of receiving them (external members grade Essays 3 and/or 4), and (3) participate in a meeting after the exam if one is needed to determine revisions.
 - The advisor sends the members' names and contact information to the PhD Program Coordinator.
 
-The exam committee exists to evaluate the comprehensive exam. Members are not obligated to continue after the exam, and the student may choose different faculty for the dissertation committee, although continuity is encouraged. The official dissertation committee is formed after the proposal defense, when the student advances to candidacy, under the Graduate School's rules.
+The exam committee exists to evaluate the comprehensive exam. Members are not obligated to continue after the exam, and the student may choose different faculty for the dissertation committee, although continuity is encouraged. The official dissertation committee is formed after the proposal defense, when the student advances to candidacy, under the rules of the Office of Graduate and Postdoctoral Studies (formerly the Graduate School).
 
 ## 5. Defining the Planning Specialization and Dissertation Topic
 
@@ -129,6 +135,7 @@ The planning specialization must be one of the following:
 - International Studies in Planning
 - Land Use and Land Development
 - Public Health and Planning
+- Spatial Analytics
 - Transportation
 - Urban Design
 - Special Field (a specialization designed by the student and approved by the CRP-GSC)
@@ -139,10 +146,10 @@ The dissertation topic is defined by the student, working closely with the advis
 
 The student, with the advisor and committee, develops a reading list for each of the four essay areas: Planning Theory, Planning Research Design, Planning Specialization, and Dissertation Topic.
 
-- The core-course faculty are encouraged to review the theory and research design lists before they are finalized. All CRP-GSC members are invited to review and comment on any list.
-- The advisor and committee members review and comment on the lists in a timely manner.
-- The student or advisor submits the *final* lists to the PhD Program Coordinator and the committee about two months before the exam (Section 3).
-- The student is encouraged to prepare a one- to two-page abstract of the proposed dissertation research. It is not required, but it helps the committee write questions, particularly for Essay 4, that support the later development of the dissertation proposal.
+- The core-course faculty review the theory and research design lists for every student before the lists are finalized. The PhD Program Coordinator shares the near-final lists with all CRP-GSC members, who are invited to review and comment on any list.
+- Committee members review and comment on the draft lists within two weeks of receiving them.
+- The advisor distributes the *final* lists to the PhD Program Coordinator and the committee at least one month before the exam (Section 3).
+- The student prepares a one- to two-page summary of the proposed dissertation research and submits it with the final reading lists. The summary is required: the committee cannot write well-targeted questions, particularly for Essay 4, without it, and it supports the later development of the dissertation proposal.
 
 ## 7. Writing and Submitting the Questions
 
@@ -150,9 +157,10 @@ The advisor leads question development.
 
 - Each of the four areas carries two or three questions, and the student answers one per area. Questions must draw on the readings on the student's final list.
 - The core-course faculty always contribute questions for Areas 1 (Planning Theory) and 2 (Planning Research Design), in consultation with the advisor so that the questions connect to the student's interests. Questions are newly written for each student.
-- The advisor drafts questions for all four areas, with particular responsibility for Areas 3 (Planning Specialization) and 4 (Dissertation Topic), and solicits proposed questions from all committee members. Committee members who are CRP-GSC members are expected to propose questions in all four areas; external members propose questions in Areas 3 and/or 4.
-- When the PhD Program Coordinator circulates the final reading list, other CRP-GSC members are welcome to propose questions for any area.
+- The advisor drafts questions for all four areas, with particular responsibility for Areas 3 (Planning Specialization) and 4 (Dissertation Topic), and solicits proposed questions from all committee members. Committee members who are CRP-GSC members are expected to propose questions in all four areas; external members propose questions in Areas 3 and/or 4. The advisor and PhD Program Coordinator may agree to a different division where an external member's expertise is closer to the student's topic.
+- When the PhD Program Coordinator circulates the final reading lists, other CRP-GSC members are welcome to propose questions for any area.
 - The advisor assembles and refines the final set of questions with the committee and submits it to the PhD Program Coordinator at least two weeks before the exam start date (Section 3).
+- The PhD Program Coordinator reviews the assembled questions for clarity and scope. In most cases no changes will be needed, but the coordinator may return the questions to the advisor with comments; the advisor revises and resubmits before the exam is sent.
 
 ## 8. The Exam Period
 
@@ -163,7 +171,7 @@ The advisor leads question development.
 
 ## 9. Grading the Essays
 
-Readers grade and return the essays within four weeks. Each essay receives one of the following grades: **pass with honors**, **pass**, **pass with minor revisions**, **pass with major revisions**, or **unsatisfactory**. Grades are provisional until any meeting under Section 10 concludes. A pass with honors requires unanimity on all four essays.
+Readers grade and return the essays within four weeks. Each essay receives one of the following grades: **pass with honors**, **pass**, **minor revisions required**, **major revisions required**, or **unsatisfactory**. Grades are provisional until any meeting under Section 10 concludes. A pass with honors requires unanimity on all four essays.
 
 Who grades what:
 
@@ -174,9 +182,9 @@ Who grades what:
 | 3. Planning Specialization | Yes | Yes | — | Yes, if within their expertise (advisory) |
 | 4. Dissertation Topic | Yes | Yes | — | Yes, at least one (advisory) |
 
-External members' grades and comments are advisory, since final exam results are a CRP-GSC decision. Other CRP-GSC members are invited to read and grade any exam.
+CRP-GSC members of the committee are expected to grade all four essays; the advisor and PhD Program Coordinator may make an exception where an external member's expertise is closer to the student's topic. External members' grades and comments are advisory, since final exam results are a CRP-GSC decision. Other CRP-GSC members are invited to read and grade any exam.
 
-Readers return grades and comments to the PhD Program Coordinator, who synthesizes them into a results letter and sends it to the student within five weeks of the essays' submission.
+Readers return grades and comments to the PhD Program Coordinator, who synthesizes them into a results letter, shares the draft with the advisor for comment, and sends it to the student within five weeks of the essays' submission.
 
 ## 10. Revisions
 
@@ -188,13 +196,13 @@ The student has four weeks to complete revisions. Revised essays are graded **pa
 
 ## 11. Unsatisfactory Outcomes
 
-If any reader grades a revised essay unsatisfactory, the PhD Program Coordinator and advisor convene a meeting of the committee, the core-course faculty, and the reader or readers who gave the unsatisfactory grade. External members' views are advisory; the decision rests with the CRP-GSC members of the committee. The meeting decides by consensus whether:
+If any CRP-GSC reader grades a revised essay unsatisfactory, the PhD Program Coordinator and advisor convene a meeting of the committee, the core-course faculty, and the reader or readers who gave the unsatisfactory grade. External members' views are advisory; the decision rests with the CRP-GSC members of the committee. The meeting decides by consensus whether:
 
 a. the student passes and advances to candidacy;  
 b. the student must complete additional coursework or studies to correct deficiencies; or  
 c. the unsatisfactory grade stands and the student has failed the comprehensive exam requirement.
 
-If the meeting reaches consensus on (c), or fails to reach consensus while any reader still recommends unsatisfactory, all CRP-GSC members are asked to read the essay or essays in question within two weeks. The PhD Program Coordinator and the CRP Program Director then convene the CRP-GSC to decide the case. The CRP-GSC decides whether the student passes and advances to candidacy (available only when the earlier meeting did not reach consensus), whether additional coursework or studies will correct the deficiencies, or whether the student has failed the requirement and the student's course of study is terminated. Termination requires a majority vote of the CRP-GSC, per the Graduate School Catalog.
+If the meeting reaches consensus on (c), or fails to reach consensus while any reader still recommends unsatisfactory, all CRP-GSC members are asked to read the essay or essays in question within two weeks. The PhD Program Coordinator and the CRP Program Director then convene the CRP-GSC to decide the case. The CRP-GSC decides whether the student passes and advances to candidacy (available only when the earlier meeting did not reach consensus), whether additional coursework or studies will correct the deficiencies, or whether the student has failed the requirement and the student's course of study is terminated. Termination requires a majority vote of the CRP-GSC, per the University's Graduate Catalog.
 
 ---
 
@@ -204,10 +212,10 @@ Graduate Program in Community and Regional Planning
 School of Architecture  
 The University of Texas at Austin
 
-*Work backward from your exam start date: draft reading lists about 3 months before, final reading lists about 2 months before, questions to the PhD Program Coordinator at least 2 weeks before.*
+*Work backward from your exam start date: draft reading lists about 3 months before, final reading lists and dissertation summary at least 1 month before, questions to the PhD Program Coordinator at least 2 weeks before.*
 
 1. ☐ I have completed, or am close to completing, my required coursework (check with the PhD Program Coordinator if unsure).
-2. ☐ My advisor and I have assembled my exam committee (at least four members; at least one from outside the CRP-GSC), and each member has agreed to write questions, grade, meet if needed, and knows my intended exam date.
+2. ☐ My advisor and I have assembled my exam committee (at least four members; at least one from outside the CRP-GSC), and each member has agreed to write questions, grade within four weeks, meet if needed, and knows my intended exam date and grading timeline.
 
    | Name | Department | Email | Role |
    |---|---|---|---|
@@ -221,8 +229,8 @@ The University of Texas at Austin
 4. ☐ My advisor has sent my committee roster to the PhD Program Coordinator.
 5. ☐ My advisor, committee, and I have assembled my draft reading lists (about 3 months before the exam).
 6. ☐ I have revised my reading lists based on committee feedback.
-7. ☐ My advisor or I have sent my *final* reading lists to the PhD Program Coordinator and my committee (about 2 months before the exam).
-8. ☐ I have shared a one- to two-page dissertation abstract with my committee (encouraged).
+7. ☐ My advisor has sent my *final* reading lists to the PhD Program Coordinator and my committee (at least 1 month before the exam).
+8. ☐ I have submitted my one- to two-page dissertation summary with my final reading lists (required).
 9. ☐ My advisor has submitted the exam questions to the PhD Program Coordinator (at least 2 weeks before the exam).
 10. ☐ My advisor, the PhD Program Coordinator, and I have confirmed my exam start date.
 11. ☐ **I have written one essay in each of the four areas and submitted them to the PhD Program Coordinator within 10 days.**

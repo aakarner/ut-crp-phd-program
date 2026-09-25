@@ -23,7 +23,7 @@ Students most often email the wrong person. Three roles handle most PhD matters:
 |---|---|
 | Your program of work, which courses count, master's equivalency, methods course approval, comps, proposal and defense scheduling, funding allocation, annual review | **PhD Program Coordinator** ([Alex Karner](https://soa.utexas.edu/faculty/alex-karner)) |
 | Registration changes, adding or dropping, section switches, late registration, DocuSign forms, leaves of absence, tuition and fee holds | **UTSOA Graduate Program Coordinator** (staff, Graduate Office): [utsoa-gradcoordinator@utexas.edu](mailto:utsoa-gradcoordinator@utexas.edu) |
-| Signatures on Graduate School forms (candidacy application, Request for Final Oral Examination, candidacy extensions) | **Graduate Advisor** (a faculty role in the School of Architecture; the PhD Program Coordinator advises them, but they sign) |
+| Signatures on forms for the Office of Graduate and Postdoctoral Studies (formerly the Graduate School; candidacy application, Request for Final Oral Examination, candidacy extensions) | **Graduate Advisor** (a faculty role in the School of Architecture; the PhD Program Coordinator advises them, but they sign) |
 | Your research, reading lists, committee membership, dissertation | **Your advisor** |
 | Visa, work authorization, enrollment requirements for international students | **Texas Global / ISSS** |
 
@@ -65,7 +65,7 @@ Ideally a course focused on a specific advanced technique: machine learning, str
 Ask other PhD students what they've taken; they're the best current source. Then email the instructor directly rather than sitting on a waitlist. Most instructors admit outside doctoral students when asked.
 
 **Can independent study count toward my specialization?**
-One independent study with a CRP core faculty member may count toward the 12-hour planning specialization. The Graduate School caps independent study at 6 credits toward degree requirements, and program guidance limits it to about 20 percent of your coursework. Students often use an independent study in the semester before comps to read for the exam with a committee member.
+One independent study with a CRP core faculty member may count toward the 12-hour planning specialization. The Office of Graduate and Postdoctoral Studies caps independent study at 6 credits toward degree requirements, and program guidance limits it to about 20 percent of your coursework. Students often use an independent study in the semester before comps to read for the exam with a committee member.
 
 **Is the doctoral Colloquium offered every year?**
 It is offered when the incoming cohort is large enough to sustain it. It will be offered at least every other year. In years with a very small cohort the coordinator will arrange an alternative; you will not be penalized for a year it isn't offered.
@@ -86,7 +86,7 @@ When your coursework is complete or nearly so (check with the coordinator if you
 Your advisor leads. Committee members who are CRP-GSC faculty propose questions in all four areas; the Planning Theory and Research Design instructors always contribute to Areas 1 and 2; external members contribute in Areas 3 and/or 4. GSC readers grade all four essays; external members' grades are advisory. Readers have four weeks; the coordinator synthesizes the grades into a results letter within five.
 
 **Do I need paperwork to put someone on my comps committee?**
-No. There is no Graduate School form at this stage; the committee is formalized later, at candidacy. Your advisor sends the coordinator the roster before the exam is scheduled.
+No. There is no Office of Graduate and Postdoctoral Studies form at this stage; the committee is formalized later, at candidacy. Your advisor sends the coordinator the roster before the exam is scheduled.
 
 **How do I submit revisions?**
 One round of revisions is allowed. Send the coordinator a tracked-changes version and a clean version of each revised essay, in Word. Combined or separate files are both fine. Readers have two weeks to grade revisions.
@@ -101,16 +101,16 @@ The governing document is the [Proposal Defense Policy](policies/proposal-defens
 Within two full semesters (summers don't count). Your committee can't make its final form until after the defense, so use the gap to firm up membership.
 
 **Can a UT faculty member outside CRP serve on my dissertation committee?**
-Yes, and you need at least one such member. If they are UT faculty but not a CRP-GSC member, first confirm they're willing, then you or they email the CRP-GSC chair (cc your advisor and the coordinator) asking to be added to the CRP GSC for the purpose of serving; the GSC votes at its next meeting. External members from outside UT need a terminal degree; you'll submit their CV and a "no-expense" letter to the Graduate School when you form the official committee.
+Yes, and you need at least one such member. If they are UT faculty but not a CRP-GSC member, first confirm they're willing, then you or they email the CRP-GSC chair (cc your advisor and the coordinator) asking to be added to the CRP GSC for the purpose of serving; the GSC votes at its next meeting. External members from outside UT need a terminal degree; you'll submit their CV and a "no-expense" letter to the Office of Graduate and Postdoctoral Studies when you form the official committee.
 
 **Who signs my candidacy application?**
-The Graduate Advisor signs in the Graduate School's online system, after checking with the PhD Program Coordinator that your requirements are met. You'll be asked to enter a short (under 60 lines) description of your dissertation; have your advisor approve it first, and draft it offline because the form times out.
+The Graduate Advisor signs in the Office of Graduate and Postdoctoral Studies' online system, after checking with the PhD Program Coordinator that your requirements are met. You'll be asked to enter a short (under 60 lines) description of your dissertation; have your advisor approve it first, and draft it offline because the form times out.
 
 **How do I learn the outcome of my proposal defense revisions?**
 The coordinator emails you (cc your advisor) once the committee has approved your revisions. You may then apply for candidacy.
 
 **My candidacy is about to expire. What happens?**
-The Graduate School expects the dissertation within two years of candidacy. Extensions require a CRP-GSC vote: your chair submits a justification, the GSC chair collects votes, and the Graduate Advisor approves the extension in the routing system. Start this well before the deadline.
+The Office of Graduate and Postdoctoral Studies expects the dissertation within two years of candidacy. Extensions require a CRP-GSC vote: your chair submits a justification, the GSC chair collects votes, and the Graduate Advisor approves the extension in the routing system. Start this well before the deadline.
 
 ---
 
@@ -122,13 +122,13 @@ The governing document is the [Dissertation Defense Policy](policies/dissertatio
 In the [Dissertation Defense Policy](policies/dissertation-defense/), Section 6, which lists every step: registration in a 99W course, room booking, the four-week submission to the committee and coordinator, the two required chair emails, and the Request for Final Oral Examination. Don't confuse it with the proposal defense policy.
 
 **Do I use the online system or the PDF for the Request for Final Oral Examination, and why does it list the Graduate Advisor?**
-The Graduate School's form is signed by the Graduate Advisor, not the PhD Program Coordinator; that is how the School of Architecture is set up. Coordinate with the UTSOA Graduate Program Coordinator ([utsoa-gradcoordinator@utexas.edu](mailto:utsoa-gradcoordinator@utexas.edu)) to get the form into DocuSign well ahead of time; committee signatures take a while.
+The Office of Graduate and Postdoctoral Studies' Request for Final Oral Examination form is signed by the Graduate Advisor, not the PhD Program Coordinator; that is how the School of Architecture is set up. Coordinate with the UTSOA Graduate Program Coordinator ([utsoa-gradcoordinator@utexas.edu](mailto:utsoa-gradcoordinator@utexas.edu)) to get the form into DocuSign well ahead of time; committee signatures take a while.
 
 **Does the PhD Program Coordinator have to attend my defense?**
 The policy asks that a defense be scheduled when the chair, committee, and PhD Program Coordinator can be present, and that the coordinator receive the dissertation four weeks ahead so the defense can be announced. Send the coordinator your proposed date at early as possible. The coordinator will attend when possible but their attendance at the defense is not strictly necessary.
 
 **Can my defense, or a committee member, be remote?**
-The Graduate School allows virtual defenses, and a committee member may join remotely in extenuating circumstances, but the program strongly prefers an in-person defense and expects the student and chair to work toward one.
+The Office of Graduate and Postdoctoral Studies allows virtual defenses, and a committee member may join remotely in extenuating circumstances, but the program strongly prefers an in-person defense and expects the student and chair to work toward one.
 
 **How long should my presentation be?**
 The policy says roughly 35–40 minutes; committees often ask for shorter, around 25–30, to leave time for questions. Check with your chair. Make sure your references are complete and your citation style consistent; committees have also begun asking for a brief statement on any use of generative AI.
@@ -141,7 +141,7 @@ The policy says roughly 35–40 minutes; committees often ask for shorter, aroun
 Three sources, all coordinated by the PhD Program Coordinator, who advertises them together each fall and spring:
 
 1. **UTSOA Dean's conference support.** Every CRP PhD student is intended to receive one travel award of $1,300 during their time in the program, preferably to present an accepted paper. If your faculty PI's grant covers part of a trip, this fund can top it up to $1,300.
-2. **Graduate School Professional Development Awards.** A small annual pool (about $1,100 for the program) for students presenting original UT research. Requires proof of acceptance, documentation of travel, and a short post-conference report; a registration hold can follow if the report isn't submitted.
+2. **Professional Development Awards from the Office of Graduate and Postdoctoral Studies.** A small annual pool (about $1,100 for the program) for students presenting original UT research. Requires proof of acceptance, documentation of travel, and a short post-conference report; a registration hold can follow if the report isn't submitted.
 3. **CRP program funds**, as available.
 
 To apply, send the coordinator the Student Professional Development form, your abstract, and proof of acceptance. Priority goes to students presenting original, peer-reviewed work, to those who haven't yet had a funded trip, and to those on the job market. Applying once covers all three sources; the coordinator routes it. Apply for the ACSP Doctoral Workshop separately (deadline usually August).

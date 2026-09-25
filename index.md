@@ -9,7 +9,7 @@ This site is the definitive home for the PhD policies and procedures of the [Gra
 
 Policies are added here as the GSC works through them. Adopted policies appear as verbatim transcriptions of the current text, with a short note on the source and any known errors in the original. Until a policy appears on this site, the version in the current PhD Handbook governs.
 
-**A note on role titles.** The older adopted texts were written at different times and use several names for the same two roles. "PhD Program Director," "PhD Director," and "PhD program director" all refer to the faculty member now titled **PhD Program Coordinator**. "Committee Supervisor," "chair," and "chair (advisor)" all refer to the student's **advisor**, who chairs the student's committees. "CRP Program Director" is a different role: the head of the Graduate Program in Community and Regional Planning. Revised policies use the current titles; transcribed ones keep the original wording.
+**A note on role titles.** The older adopted texts were written at different times and use several names for the same two roles. "PhD Program Director," "PhD Director," and "PhD program director" all refer to the faculty member now titled **PhD Program Coordinator**. "Committee Supervisor," "chair," and "chair (advisor)" all refer to the student's **advisor**, who chairs the student's committees. "CRP Program Director" is a different role: the head of the Graduate Program in Community and Regional Planning. The University's Graduate School has been renamed the [Office of Graduate and Postdoctoral Studies](https://graduate.utexas.edu/); older texts use the former name. Revised policies use the current titles and names; transcribed ones keep the original wording.
 
 ## Policies
 

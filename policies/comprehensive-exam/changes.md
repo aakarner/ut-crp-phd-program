@@ -6,7 +6,7 @@ nav_order: 1
 
 # What Changed and Why: Comprehensive Exam Policy Revision (Draft, September 2026)
 
-This page explains how the [revised draft](index.md) differs from the [policy adopted in July 2025](2025-07-adopted.md), what prompted each change, and what we hope it will accomplish. We put this together to provide additional background for GSC members who are less familiar with comprehensive exam policies and procedures. A line-by-line comparison is available as a [side-by-side diff](diff.html), though because the revision reorganizes the document that view overstates the change.
+This page explains how the [revised draft](index.md) differs from the [policy adopted in July 2025](2025-07-adopted.md), what prompted each change, and what we hope it will accomplish. The draft was first circulated on September 19, 2026 and revised on September 25 after a round of comments from current and past PhD Program Coordinators; changes 9–15 below come from that review. We put this together to provide additional background for GSC members who are less familiar with comprehensive exam policies and procedures. A line-by-line comparison is available as a [side-by-side diff](diff.html), though because the revision reorganizes the document that view overstates the change.
 
 ## Background
 
@@ -40,7 +40,9 @@ Each item below states the change, what prompted it, and the improvement we expe
 
 **Why.** The fixed periods have not been enforced in years. Students take the exam when it works for them and their committee, usually near the start or end of a semester, and the calendar deadlines in the policy have become a source of confusion rather than structure. This change reflects how scheduling has actually worked over the past several years.
 
-**Expected outcome.** The policy describes real practice, so students and new faculty can trust it. The lead times still give committees the notice they need. Nothing about the exam's length or rigor changes.
+The September 25 revision adjusted the lead times after review: final reading lists are due at least one month before the exam (two months was judged ambitious), committee members comment on draft lists within two weeks, and the point at which the full CRP-GSC sees the lists is now stated (near-final lists about two months out for comment; final lists at least one month out with an invitation to propose questions). Committee members are asked to confirm, when they agree to serve, that they can grade within four weeks of the exam.
+
+**Expected outcome.** The policy describes real practice, so students and new faculty can trust it. The lead times still give committees the notice they need, and the grading window is agreed in advance rather than discovered afterward. Nothing about the exam's length or rigor changes.
 
 ### 3. Question structure and sourcing written down (Sections 1, 2, 7)
 
@@ -82,6 +84,60 @@ Each item below states the change, what prompted it, and the improvement we expe
 
 **Change.** The policy states that the student receives the results letter within five weeks of submitting the essays. The adopted policy implies this only through the checklist.
 
+### 9. Dissertation summary required (Sections 2 and 6)
+
+**Change.** The student must submit a one- to two-page summary of the proposed dissertation research with the final reading lists. The adopted policy and the September 19 draft only encouraged it.
+
+**Why.** Reviewers were unanimous that committees cannot write well-targeted questions, especially for Essay 4, without knowing what the student intends to study, and that a student ready to take the exam should be able to produce two pages on their topic.
+
+**Expected outcome.** Better questions, particularly in Areas 3 and 4, and a head start on the dissertation proposal.
+
+### 10. Core-course faculty review the theory and research design reading lists (Sections 2 and 6)
+
+**Change.** The Planning Theory and Research Design instructors review the corresponding reading lists for every student before the lists are finalized. The September 19 draft said they were "encouraged" to.
+
+**Why.** If these faculty write and grade Essays 1 and 2 for every student (change 3), they need to have seen the lists those essays draw on. Reviewers felt this should be an expectation, not an invitation.
+
+**Expected outcome.** Theory and research design questions that fit the student's actual reading, and fewer surprises at grading.
+
+### 11. Flexibility on who reads Essays 3 and 4 (Sections 2 and 9)
+
+**Change.** CRP-GSC committee members are still expected to grade all four essays and propose questions in all four areas, but the advisor and PhD Program Coordinator may agree to a different division where an external member's expertise is closer to the student's topic than a CRP-GSC member's.
+
+**Why.** Reviewers noted that on some committees the external member is the person closest to the student's specialization, and a rigid rule would waste that expertise or burden a CRP-GSC member with an essay outside their field. External grades remain advisory.
+
+**Expected outcome.** Essays graded by the readers best placed to judge them, without changing who makes the final decision.
+
+### 12. PhD Program Coordinator review of questions (Sections 2 and 7)
+
+**Change.** After the advisor submits the assembled questions, the PhD Program Coordinator reviews them for clarity and scope and may return them with comments. The advisor revises and resubmits before the exam is sent.
+
+**Why.** Reviewers wanted a formal, if seldom used, point of quality control: a place to catch questions that are too thin, unclear, or out of scope before the student sees them. Under the adopted policy the coordinator simply forwarded whatever arrived.
+
+**Expected outcome.** A light check that will rarely change anything but protects students from a poorly framed exam.
+
+### 13. Advisor comments on the results letter (Sections 2 and 9)
+
+**Change.** The PhD Program Coordinator shares the draft results letter with the advisor for comment before sending it to the student. The coordinator still synthesizes the grades and sends the letter.
+
+**Why.** The advisor knows the student and the topic; a second read catches errors and tone problems, especially when the student's field is far from the coordinator's.
+
+**Expected outcome.** More accurate and better-calibrated results letters, with no change to who decides.
+
+### 14. Grade labels (Section 9)
+
+**Change.** The two revision grades are renamed from "pass with minor revisions" and "pass with major revisions" to **minor revisions required** and **major revisions required**. The scale is otherwise unchanged: pass with honors, pass, minor revisions required, major revisions required, unsatisfactory.
+
+**Why.** "Pass with revisions" is contradictory: the revision itself can be graded unsatisfactory, so the essay has not yet passed. Reviewers found the old labels confusing.
+
+**Expected outcome.** Students and readers understand that a revision grade is provisional until the revised essay passes.
+
+### 15. Spatial Analytics added to the specialization list (Section 5)
+
+**Change.** Spatial Analytics is listed as a planning specialization.
+
+**Why.** The CRP-GSC approved this specialization in a recent meeting and it is described in the current handbook, but it had not been added to the specialization lists in the handbook or the exam policy.
+
 ## Changes in form
 
 These are editorial and should not need discussion.
@@ -93,7 +149,10 @@ These are editorial and should not need discussion.
 - **Typos corrected:** "retake the exam the exam sequence" (twice), "chair comprehensive exam committee chair," "Community and regional Planning," "CH√CKLIST."
 - **Checklist updated** to use lead times instead of calendar deadlines, to record the intended exam date, and to list the committee-roster and abstract steps.
 - **Status header added** so readers can tell an adopted policy from a draft.
+- **"Any CRP-GSC reader"** in Section 11: the trigger for an unsatisfactory-outcome meeting is a CRP-GSC reader's grade, consistent with external grades being advisory.
+- **Committee members' review window** for draft reading lists stated as two weeks, replacing "in a timely manner."
+- **Graduate School renamed.** References updated to the Office of Graduate and Postdoctoral Studies, the unit's current name; the catalog citation is to the Graduate Catalog.
 
 ## Unchanged
 
-The PhD Program Coordinator continues to receive all grades and comments, synthesize them into the results letter, and communicate results to the student. Also unchanged: committee composition (four members, chair from CRP-GSC, at least one external); the four essay areas; the list of specializations; the 10-day exam window and all post-exam windows (grading, results, revisions); the grade scale; the one-round-of-revisions rule; the two-week silent-consent rule for revised essays; external members' grades being advisory; and the majority vote of the CRP-GSC required to terminate a student's program.
+The PhD Program Coordinator continues to receive all grades and comments, synthesize them into the results letter, and communicate results to the student. Also unchanged: committee composition (four members, chair from CRP-GSC, at least one external); the four essay areas; the list of specializations; the 10-day exam window and all post-exam windows (grading, results, revisions); the five grade levels (relabeled; see change 14); the one-round-of-revisions rule; the two-week silent-consent rule for revised essays; external members' grades being advisory; and the majority vote of the CRP-GSC required to terminate a student's program.
